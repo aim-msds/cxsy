@@ -1,1 +1,3 @@
-# cxsy
+# Complexity Science
+
+Complex Systems are systems composed of heterogeneous agents that are highly interacting and whose interactions result to emergent behavior, e.g. societies, economies, markets, cities, and biological systems like the immune system and the brain, to list a few. In this class, the students will be exposed to various tools used in characterizing and modeling complex systems. The topics include dynamical systems, chaos, fractals, self-organization, cellular-automata modeling, agent-based modeling, and complex networks
